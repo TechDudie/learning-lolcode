@@ -1,0 +1,8 @@
+HAI 1.2
+CAN HAS STDIO?
+PLZ OPEN FILE "assets/file.txt"?
+    AWSUM THX
+        VISIBLE FILE
+    O NOES
+        INVISIBLE "ERROR!"
+KTHXBYE
