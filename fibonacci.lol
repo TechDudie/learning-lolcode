@@ -1,0 +1,17 @@
+HAI 1.2
+CAN HAS STDIO?
+I HAS A a
+I HAS A b
+I HAS A c
+a R 0
+b R 1
+c R 0
+VISIBLE a
+VISIBLE b
+IM IN YR LOOP
+    c R SUM OF a AND b
+    a R b
+    b R c
+    VISIBLE c
+IM OUTTA UR LOOP
+KTHXBYE
